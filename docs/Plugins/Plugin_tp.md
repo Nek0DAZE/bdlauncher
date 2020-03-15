@@ -3,7 +3,7 @@
 ## English
 | Command | Description |
 | - | - |
-| `/home add [name]` | back to your home |
+| `/home add [name]` | add a home |
 | `/home del [name]` | delete a home |
 | `/home ls` | view your homes |
 | `/home go [name]` | go home |
